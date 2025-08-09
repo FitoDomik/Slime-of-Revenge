@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 **Автор**
-[![Дарий](https://github.com/FitoDomik.png?size=50)](https://github.com/Perforator321) **[Дарий](https://github.com/Perforator321)**
+[![Дарий](https://github.com/Perforator321.png?size=50)](https://github.com/Perforator321) **[Дарий](https://github.com/Perforator321)**
 
 ### 🤝 **Помощник**
 [![Легенда](https://github.com/FitoDomik.png?size=50)](https://github.com/FitoDomik) **[Легенда](https://github.com/FitoDomik)**
